@@ -3,7 +3,7 @@
 ## How to use:
 - Run the app.py file in terminal to start flask server.
 
-## Features of the AgriApp:
+## Features of the App:
 - Creates a new user.
 - Log In the user.
 - Has Homepage which shows all the puppies of all owners.
